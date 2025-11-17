@@ -1,0 +1,13 @@
+# Core AI
+google-generativeai
+
+# Backend API
+fastapi
+uvicorn
+pydantic
+python-dotenv
+python-multipart # For file uploads
+
+# Frontend
+streamlit
+requests # For frontend to call backend
